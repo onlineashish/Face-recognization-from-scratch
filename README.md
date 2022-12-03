@@ -1,1 +1,0 @@
-# Face-recognization-from-scratch
